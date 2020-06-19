@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MapsDatabase</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="create_route">Create</string>
+    <string name="save_route">Save</string>
+    <string name="view_route">View</string>
+    <string name="name_txt">Name Route</string>
+</resources>
